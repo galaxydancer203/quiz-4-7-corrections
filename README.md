@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Quiz 4
 
-//I really didn't know what to do on the partial credit questions, so I decided to do some.
+//I really didn't know what to do on the partial credit questions, so I decided to do them.
 
 01. Question 6 Explanation: The correct answer for question 6 is 
 function sayHi() {
