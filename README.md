@@ -41,13 +41,7 @@ if (score >= 90) {
 }
 because it is most simplest way to achieve the goal in the question. It achieves the goal like most of the other choices but it just uses the simple if, else if, and else statement to solve the problem unlike the switch statement, which is somewhat complex or the other complex ways or the wrong choice/answer to achieve the goal.
 
-04. Question 11 Explanation: The correct answer to this question is 
-1. Setup
-2. Expression
-3. Loop body
-4. Update
-5. Return to Step 2
-because the syntax for a for loop is 
+04. Question 11 Explanation: The correct answer to this question is Setup, Expression, Loop body, Update,and then return to Step 2 because the syntax for a for loop is 
 for (setup; expression; update) {
     // do stuff here
 }
@@ -75,7 +69,6 @@ console.log(subtract(x, y));
 because both answers would use x and y to substitute a and b respectively and would return x - y when the function doMath() runs and does
 let x = Math.random() * 100;
     let y = Math.random() * 50;
-    
     let difference = subtract(x, y);
 console.log(difference); 
 or
@@ -88,7 +81,7 @@ because if c does not have a value to it and c is in a parameter in a function t
 
 03. Question 6 Explanation: The correct answer to this question is "The parameters that did not receive arguments will be undefined." This is because one or more of the parameters does not have a variable or argument assigned to it, one of the parameters/variables will not have a value assigned to it and the parameters that did not receive arguments will be undefined.
 
-04. Question 9 Explanation: The correct answers are the built-in functions prompt, alert, console.log. This is because you can add (//number, variable, or text in quotation marks) right after the built-in functions prompt, alert, console.log with no spaces.
+04. Question 9 Explanation: The correct answers are the built-in functions prompt, alert, console.log. This is because you can add (number, variable, or text in quotation marks, and etc.) right after the built-in functions prompt, alert, console.log with no spaces.
 
 05. Question 10 Explanation: The correct answer for this question is prompt. This is because prompt needs you to return a value like a number or words for the code or function to continue again.
 
