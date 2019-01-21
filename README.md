@@ -1,8 +1,6 @@
 
 # Quiz 4
 
-[]: # (I really didn't know what to do on the partial credit questions, so I decided to do them.)
-
 01. Question 6 Explanation: The correct answer for question 6 is 
 function sayHi() {
     document.getElementById("my-paragraph").innerHTML = "Hi, there!";
@@ -19,7 +17,7 @@ because the function needs to know what to put in the <p></p> tag or the paragra
 let x;
 x = 27;
 because the you need to declare the variable and then assigns a value to it. You can't declare a variable and assigns the variable a value on the same line using the let keyword. 
-[]: # (If this is not the right answer then I don't know. If it is correct, ignore this comment.)
+(If this is not the right answer then I don't know. If it is correct, ignore this comment.)
 
 04. Question 10 Explanation: The correct answer is null, string, number, object, symbol, boolean, and undefined. These are just the valid data types in JavaScript since JavaScript is a dynamically typed language and needs a lot of different ways to store different types of data.
 
